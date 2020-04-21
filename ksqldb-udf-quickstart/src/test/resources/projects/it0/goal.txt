@@ -1,1 +1,1 @@
-integration-test clean
+install integration-test clean
